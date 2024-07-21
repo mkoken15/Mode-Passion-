@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mode Passion</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Mode Passion</h1>
+        <nav>
+            <a href="#">Homme</a>
+            <a href="#">Femme</a>
+            <a href="#">Enfant</a>
+            <a href="#">Panier</a> </nav>
+    </header>
+
+    <section class="produits">
+        <h2>Polo New Balance neuf avec étiquette</h2>
+        <img src="polo-new-balance.jpg" alt="Polo New Balance noir">
+        <p>Ce polo New Balance est neuf avec étiquette. Il est 100% coton et est parfait pour un look décontracté.</p>
+        <p>Prix : 33,03€</p>
+        <button>Ajouter au panier</button>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Mode Passion</p>
+    </footer>
+</body>
+</html>
